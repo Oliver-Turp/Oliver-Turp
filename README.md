@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver-turp&label=Profile%20views&color=0e75b6&style=flat" alt="oliver-turp" /> </p>
 
-- 🔭 I’m currently working on *something**
+- 🔭 I’m currently working on **Live Editor Bot**
 
-- 🌱 I’m currently learning **something**
+- 🌱 I’m currently learning **Discord JS**
 
-- 💬 Ask me about **something**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **email here**
+- 📫 How to reach me **email here later**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
